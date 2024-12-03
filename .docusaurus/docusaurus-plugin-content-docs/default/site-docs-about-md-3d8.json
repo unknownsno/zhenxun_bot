@@ -1,0 +1,19 @@
+{
+  "id": "about",
+  "title": "你好，这里是绪山真寻",
+  "description": "欧尼酱被妹妹下药了！摇身一变成了白发傲娇美少女！",
+  "source": "@site/docs/about.md",
+  "sourceDirName": ".",
+  "slug": "/about",
+  "permalink": "/zhenxun_bot/about",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/about.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "你好，这里是绪山真寻",
+    "subSidebar": false
+  },
+  "sidebar": "aboutSidebar"
+}
